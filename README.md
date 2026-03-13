@@ -1,4 +1,8 @@
-# PROD-BOT — AI-Powered Product Review & Comparison Platform
+## 🏆 Winner: Top 10 Overall at Google Developer Groups OTU 🏆
+
+---
+
+# 🚀 PROD-BOT — AI-Powered Product Review & Comparison Platform
 
 > Discover, compare, and buy products — powered by AI and real customer reviews.
 
@@ -76,6 +80,11 @@ pnpm dev
 
 ---
 
-## 👥 Team
+## 👥 Team Members:
 
-Built as part of the GDC AI Reviews project.
+Built as part of the Google Developer Group OTU Event! ✨
+
+ - Richard Pears
+ - Abdul Wasay
+ - Bishr Pathan
+ - Jon Guzman
