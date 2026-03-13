@@ -6,8 +6,6 @@
 
 > Discover, compare, and buy products — powered by AI and real customer reviews.
 
----
-
 ## 🧠 The Problem
 
 The way people research products is changing. Instead of scrolling through endless review sites, consumers are increasingly turning to AI chatbots to ask for product suggestions and buying links. But those AI responses are limited — they rely on outdated training data, can't show real-time pricing, and have no structured way for brands to list their products.
